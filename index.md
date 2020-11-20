@@ -5,5 +5,5 @@
 
 
 ## Homework 1 (20/11/2020)
-[Here](files/IE 360 HW1.html) is my Homework 1.
+[Here](https://github.com/BU-IE-360/fall20-oguzhanpn/blob/master/files/IE%20360%20HW1.html) is my Homework 1.
 
