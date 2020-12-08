@@ -5,8 +5,8 @@
 
 
 ## Homework 1 (20/11/2020)
-[Here](files/IE_360_HW1.html) is my Homework 1.
+[Here](files/HW1/IE_360_HW1.html) is my Homework 1 and [Here](files/HW1/IE_360_HW1.ipynb) is the related notebook file.
 
 
 ## Homework 2 (09/12/2020)
-[Here](files/IE360_HW2.html) is my Homework 2.
+[Here](files/HW2/IE360_HW2.html) is my Homework 2 and [Here](files/HW1/IE_360_HW2.ipynb) is the related notebook file.
