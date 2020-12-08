@@ -9,4 +9,4 @@
 
 
 ## Homework 2 (09/12/2020)
-[Here](files/IE 360 HW2.html) is my Homework 2.
+[Here](files/IE360_HW2.html) is my Homework 2.
