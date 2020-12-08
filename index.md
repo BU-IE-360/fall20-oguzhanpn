@@ -7,3 +7,6 @@
 ## Homework 1 (20/11/2020)
 [Here](files/IE_360_HW1.html) is my Homework 1.
 
+
+## Homework 2 (09/12/2020)
+[Here](files/IE 360 HW2.html) is my Homework 2.
