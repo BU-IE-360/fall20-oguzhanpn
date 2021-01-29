@@ -18,4 +18,3 @@
 
 ## Homework 4 (29/01/2021)
 [Here](files/HW4/IE360_HW4.html) is my Homework 4 and [Here](files/HW4/IE360_HW4.ipynb) is the related notebook file.
-
