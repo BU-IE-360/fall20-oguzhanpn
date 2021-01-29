@@ -14,3 +14,8 @@
 
 ## Homework 3 (09/01/2021)
 [Here](files/HW3/IE360_HW3.html) is my Homework 3 and [Here](files/HW3/IE_360_HW3.ipynb) is the related notebook file.
+
+
+## Homework 4 (29/01/2021)
+[Here](files/HW4/IE360_HW4.html) is my Homework 4 and [Here](files/HW4/IE360_HW4.ipynb) is the related notebook file.
+
